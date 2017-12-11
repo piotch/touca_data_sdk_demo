@@ -1,0 +1,2 @@
+toucan-client==0.0.7
+toucan-data-sdk==1.0.2
